@@ -1,0 +1,61 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.logo{
+
+	   margin: 20px;
+    float: left;
+}
+
+.menu-bar{
+
+}
+
+.menu-bar ul{
+
+}
+
+.menu-bar ul li{
+
+}
+
+
+section{
+
+}
+
+.banner{
+	      background: url(../img/banner.png)no-repeat;
+    background-size: cover;
+    padding: 124px;
+    text-transform: capitalize;
+    color: white;
+}
+
+.banner h1{
+	    text-align: center;
+    margin: 11px;
+}
+
+.banner p{
+	text-align: center;
+    font-size: 23px;
+    margin-bottom: 41px;
+}
+
+.btn {
+	  margin-left: 468px;
+    padding: 18px;
+    text-transform: capitalize;
+    background-color: #99c50a;
+    border-radius: 14px;
+    border: none;
+    color: white;
+
+
